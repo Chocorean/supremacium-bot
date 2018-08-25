@@ -1,2 +1,2 @@
 # supremacium-bot
-A discord bot for Supremacium Clash Royale bot
+A discord bot for Supremacium Clash Royale clan
